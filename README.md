@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajasekhars
 - 👀 I’m interested in Devops,AWS
-- 🌱 I have good knowledge on GIT, GITHUB, Maven, Ansible, shell scripting, Jenkins, Docker, Kubernetes, AWS, Terraform
+- 🌱 I have good knowledge on GIT, GITHUB,Git-Lab,Nexus, Maven, Ansible, shell scripting, Jenkins, Docker, Kubernetes, AWS, Terraform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@rajasekharreddy9712@gmail.com
 
